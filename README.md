@@ -5,8 +5,7 @@ The **Sales Analysis Dashboard** is an interactive Power BI report designed to p
 It enables data-driven decision-making by visualizing revenue, orders, profitability, and growth trends in a clear and actionable format.
 
 ---
-<img width="1308" height="738" alt="Screenshot 2025-10-12 134511" src="https://github.com/user-attachments/assets/4af92bfc-927e-42d4-ab54-77a76ba5daf5" />
-
+<img width="1307" height="738" alt="Screenshot 2025-10-29 133659" src="https://github.com/user-attachments/assets/4beb0f17-97d2-4a17-b868-547e60ea315a" />
 
 ## 🎯 Objective
 To analyze overall sales performance and uncover insights related to:
